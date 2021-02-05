@@ -1,0 +1,17 @@
+<Icons>
+    <Theme>dctheme</Theme>
+    <ShowHiddenDimmed>False</ShowHiddenDimmed>
+    <ShowMode>3</ShowMode>
+    <ShowOverlays>False</ShowOverlays>
+    <Size>16</Size>
+    <DiskSize>16</DiskSize>
+    <DiskAlpha>50</DiskAlpha>
+    <Exclude>False</Exclude>
+    <ExcludeDirs/>
+    <CustomIcons>0</CustomIcons>
+    <PixelsPerInch>96</PixelsPerInch>
+    <ShowInMenus Enabled="True">
+        <Size>16</Size>
+    </ShowInMenus>
+    <ShowButtonGlyphs>0</ShowButtonGlyphs>
+</Icons>

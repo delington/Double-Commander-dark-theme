@@ -1,0 +1,68 @@
+<Fonts>
+    <Main>
+        <Name>Tahoma</Name>
+        <Size>10</Size>
+        <Style>0</Style>
+        <Quality>1</Quality>
+    </Main>
+    <Editor>
+        <Name>Courier New</Name>
+        <Size>14</Size>
+        <Style>0</Style>
+        <Quality>0</Quality>
+    </Editor>
+    <Viewer>
+        <Name>Courier New</Name>
+        <Size>14</Size>
+        <Style>0</Style>
+        <Quality>0</Quality>
+    </Viewer>
+    <OptionsTree>
+        <Name>default</Name>
+        <Size>10</Size>
+        <Style>0</Style>
+        <Quality>0</Quality>
+    </OptionsTree>
+    <OptionsMain>
+        <Name>default</Name>
+        <Size>10</Size>
+        <Style>0</Style>
+        <Quality>0</Quality>
+    </OptionsMain>
+    <SearchResults>
+        <Name>default</Name>
+        <Size>14</Size>
+        <Style>0</Style>
+        <Quality>0</Quality>
+    </SearchResults>
+    <PathEdit>
+        <Name>default</Name>
+        <Size>8</Size>
+        <Style>0</Style>
+        <Quality>0</Quality>
+    </PathEdit>
+    <FunctionButtons>
+        <Name>default</Name>
+        <Size>8</Size>
+        <Style>0</Style>
+        <Quality>0</Quality>
+    </FunctionButtons>
+    <Log>
+        <Name>Courier New</Name>
+        <Size>12</Size>
+        <Style>0</Style>
+        <Quality>0</Quality>
+    </Log>
+    <ViewerBook>
+        <Name>default</Name>
+        <Size>16</Size>
+        <Style>1</Style>
+        <Quality>0</Quality>
+    </ViewerBook>
+    <Console>
+        <Name>Courier New</Name>
+        <Size>12</Size>
+        <Style>0</Style>
+        <Quality>0</Quality>
+    </Console>
+</Fonts>

@@ -1,0 +1,29 @@
+<Colors>
+    <UseCursorBorder>False</UseCursorBorder>
+    <CursorBorderColor>-2147483635</CursorBorderColor>
+    <UseFrameCursor>False</UseFrameCursor>
+    <Foreground>15263976</Foreground>
+    <Background>3552822</Background>
+    <Background2>3026478</Background2>
+    <Cursor>-2147483635</Cursor>
+    <CursorText>-2147483634</CursorText>
+    <Mark>255</Mark>
+    <InactiveCursor>-2147483645</InactiveCursor>
+    <InactiveMark>128</InactiveMark>
+    <UseInvertedSelection>False</UseInvertedSelection>
+    <UseInactiveSelColor>False</UseInactiveSelColor>
+    <AllowOverColor>True</AllowOverColor>
+    <gBorderFrameWidth>1</gBorderFrameWidth>
+    <InactivePanelBrightness>100</InactivePanelBrightness>
+    <FreeSpaceIndicator>
+        <UseGradient>True</UseGradient>
+        <ForeColor>0</ForeColor>
+        <BackColor>16777215</BackColor>
+    </FreeSpaceIndicator>
+    <LogWindow>
+        <Info>8388608</Info>
+        <Error>255</Error>
+        <Success>32768</Success>
+    </LogWindow>
+    <FileFilters/>
+</Colors>
