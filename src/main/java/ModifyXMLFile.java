@@ -2,6 +2,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.net.URISyntaxException;
 import java.util.Properties;
 import javax.xml.XMLConstants;
 import javax.xml.parsers.DocumentBuilder;
@@ -15,6 +16,7 @@ import javax.xml.transform.stream.StreamResult;
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.xml.sax.SAXException;
+import parser.ColorParser;
 import process.ColorProcess;
 
 public class ModifyXMLFile {
@@ -30,6 +32,9 @@ public class ModifyXMLFile {
 
             // Get the root element
             Node doublecmd = doc.getDocumentElement();
+
+            ColorParser p = new ColorParser();
+            p.execute();
 
             // Get the staff element , it may not working if tag has spaces, or
             // whatever weird characters in front...it's better to use
@@ -47,7 +52,7 @@ public class ModifyXMLFile {
             // write the content into xml file
             writeToXML(filepath, doc);
 
-        } catch (ParserConfigurationException | TransformerException | IOException | SAXException pce) {
+        } catch (ParserConfigurationException | TransformerException | IOException | SAXException | URISyntaxException pce) {
             pce.printStackTrace();
         }
     }
