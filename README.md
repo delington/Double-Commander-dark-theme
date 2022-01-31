@@ -7,8 +7,8 @@ Dark theme:
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 
-###Original Double Commander project
+### Original Double Commander project
 - https://github.com/doublecmd/doublecmd
 
-###Release
+### Release
 - Same zip as official just changed to have doublecmd.xml file configured for dark theme.
